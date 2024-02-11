@@ -4,11 +4,11 @@ During completing this project, in which I implemented simple smart contract for
     <li>working with NFT ERC-721 standard using @openzeppeling</li>
     <li>uploading/downloading image on chain</li>
     <li>uploading image on IPFS and retrieving link to them on-chain</li>
-    <li>working with: *abi.encode()*,*abi.decode()*,*abi.encodePacked()*, *bytes()*, *string()* </li>
-    <li>differentiate between type of testing: **integration**, **staging**, **unit** </li>
+    <li>working with: <i>abi.encode()</i>,<i>abi.decode()</i>,<i>abi.encodePacked()</i>, <i>bytes()</i>, <i>string()</i> </li>
+    <li>differentiate between type of testing: <b>integration</b>, <b>staging</b>, <b>unit</b> </li>
     <li>using deploy scripts to upload smart-contract on-chain</li>
     <li>obtaining  NFTs to the wallet</li>
-    <li>distinguish *image URI* and *token URI*</li>
+    <li>distinguish <i>image URI</i> and <i>token URI</i></li>
     <li>how to work with files in Solidity</li>
     <li>how to understand Makefile especially during working with Solidity</li>
 </ul>
